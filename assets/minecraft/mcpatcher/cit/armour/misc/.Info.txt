@@ -1,0 +1,65 @@
+Misk Files:
+
+* Indicates Containment of an Unknown Item
+
+misc1 = Breathing Helmet + Mummy's Rag + Dragon Hide Leggings 
+misc2 = Climbing Helmet + Bob's Battle Chestplate + Treasure Boots
+misc3 = Fedora + Bad Wolf + Tarok's Parka
+misc4 = Santa Hat + Frosted Leggings
+misc5 = Old Kings Crown + Kings Robe
+misc6 = Santa's Boots + Pigman Helmet + Perfumed Chestplate
+*misc7 = Unknown Helmet + Santa's Pants
+misc8 = Third Eye + Dravarden/Tarnkappe
+*misc9 = Unknown Helmet + Unknown Chestplate
+misc10 = Medico + Dragon Horned Helmet
+*misc11 = Unknwon Chesplate + Butter Helmet
+misc12 = Zombie Helm + Durum's Journey + Gargantuan
+misc13 = Plauge Mask + Sky Reflector
+misc14 = Blueberry  + Ado Saki + NightMail
+misc15 = Gnocchi + March Runner + Iron mail
+misc16 = Sapphire + Aries
+misc17 = Troms' Climbing Trousers + Illuminate
+misc18 = StoneWall + Factory Helmet
+misc19 = Zombified Pants + Clearsight Spectacles
+misc20 = Iron Incrusted Pants + Sound Proof Earmuff
+misc21 = Shin Guards
+misc22 = Solid Quartz Chestplate + Fenmask + Iron Foot
+misc23 = The Knight's Chestplate + Guard's Uniform
+misc24 = Phoenix Prince's Crown + Hearthfire
+misc25 = Spectre + Greaves of the Veneer
+misc26 = Helm of Andesite + Dark Shroud
+misc27 = Azure Halo + Tophet
+misc28 = The Queen's Tiara + Vaward
+misc29 = Tisaun's Valor + The Queen's Headpiece
+misc30 = Gale's Sight + Libra
+misc31 = Leo + Venison
+misc32 = Skeletal Legs + Shinepark\
+misc33 = Pelier + Winters Essence
+misc34 = Call of the Void + Hephaestus-Forged Greaves
+misc35 = Shawl of Gaea
+misc36 = Ossuary
+misc37 =
+misc38 =
+misc39 =
+misc40 = 
+
+
+transpearent = A transpearent file used to replace parts of leather armour
+
+
+Credit @ChocotlateGelato
+chocgelato1 = Dune Storm + Kickback + Donadasch
+chocgelato2 = Hetsol
+chocgelato3 = Cinderchain
+chocgelato4 = Sundown Poncho
+chocgelato5 = Taurus
+chocgelato6 = Silkweb Mail
+
+Credit @FishCat
+fishcat1 = Cloud Cover
+
+Credit @SeeksarianZxSery
+seeksarian1 = Cancer + Chestplate of Ineptitude + Dance Boots
+seeksarian2 = Gemini + Centipede
+seeksarian3 = Undefined + NightVest + Pisces
+seeksarian4 = Heat Sink
