@@ -1,6 +1,11 @@
 # What is WynnArmour?
 WynnArmour is a Minecraft resource pack for the server Wynncraft! It aims to bring back the old Armour Skins feature which gave all armour pieces their own unquiet textures.
 
+# How to Download
+There are two ways to download:
+ - Get the latest complete release from (here)[https://github.com/aws404/WynnArmour/releases]  and simply place the downloaded version into the resourcepacks dirrectory.
+ - Download the current beta version using the green 'Clone or Download' button near the top of the page, then click 'Download ZIP'. Extract the contents of this zip file into your resourcepacks dirrectory. 
+
 # How to help!
 Before adding textures, its best to look around in the files to get an idea for how the organisation works and how the properties files work.  
 If you want to help simply follow the steps below:
