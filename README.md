@@ -3,7 +3,7 @@ WynnArmour is a Minecraft resource pack for the server Wynncraft! It aims to bri
 
 # How to Download
 There are two ways to download:
- - Get the latest complete release from (here)[https://github.com/aws404/WynnArmour/releases]  and simply place the downloaded version into the resourcepacks dirrectory.
+ - Get the latest complete release from [here](https://github.com/aws404/WynnArmour/releases)  and simply place the downloaded version into the resourcepacks dirrectory.
  - Download the current beta version using the green 'Clone or Download' button near the top of the page, then click 'Download ZIP'. Extract the contents of this zip file into your resourcepacks dirrectory. 
 
 # How to help!
